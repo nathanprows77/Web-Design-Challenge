@@ -1,0 +1,30 @@
+.imageNav-photo {
+    width:250px;
+    height:250px; 
+}
+body {
+    background-color: lightgrey;
+}
+.image-photo {
+    width:250px;
+    height:250px;
+    float: left;
+}
+.nav {
+    padding: 10px;
+    background: #5191fd;
+    color: green;
+  }
+.nav li a {
+    color: rgb(46, 23, 151);
+    text-decoration: none;
+  }
+.Nav-photo {
+    widows: 400px;;
+    height: 400px;
+}
+.img-photo {
+    width:500px;
+    height:500px;
+    float: center;
+}
